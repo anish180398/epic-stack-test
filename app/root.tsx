@@ -250,7 +250,7 @@ function App() {
 				<header className="container py-6">
 					<nav className="flex items-center justify-between">
 						<Link to="/">
-							<div className="font-light">epic</div>
+							<div className="font-light">ANish</div>
 							<div className="font-bold">notes</div>
 						</Link>
 						{isOnSearchPage ? null : (
